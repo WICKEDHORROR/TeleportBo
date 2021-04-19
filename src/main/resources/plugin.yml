@@ -1,0 +1,8 @@
+name: TeleBow
+version: ${project.version}
+main: me.wickedhorror.telebow.TeleBow
+api-version: 1.16
+commands:
+  tpbow:
+    description: Teleport Bow
+

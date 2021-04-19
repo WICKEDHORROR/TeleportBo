@@ -1,0 +1,5 @@
+bow-name: '&f&eTeleport Bow'
+bow-description: '&cLore 1'
+teleport-message: '&bSwoosh'
+# Change from TRUE to FALSE so it wont give bow on JOIN
+give-bow-on-join: true
