@@ -1,4 +1,4 @@
-# TeleportBo
-First Plguin
+# TeleportBow
+First Plugin
 
 Nothing serious learning 
